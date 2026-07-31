@@ -57,8 +57,3 @@ Tarea4/
 4. Importar la carpeta `src` como proyecto Java en Eclipse (New → Java Project → From Existing Source).
 5. Ejecutar `Main.java`.
 
-## Pendiente antes de entregar
-
-- Subir el proyecto completo a un **repositorio de GitHub**.
-- Grabar el **video de 2 minutos** mostrando tu cara y explicando cada funcionalidad una por una.
-- Incluir en la entrega: link del repositorio y link del video.
